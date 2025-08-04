@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\Arthur\\DotnetVisualStudioCode\\DotnetVisualStudioCode.csproj": {}
+    "F:\\Users\\Arthur\\DotnetVisualStudioCode\\Dotnet-VSCODE\\DotnetVisualStudioCode.csproj": {}
   },
   "projects": {
-    "F:\\Users\\Arthur\\DotnetVisualStudioCode\\DotnetVisualStudioCode.csproj": {
+    "F:\\Users\\Arthur\\DotnetVisualStudioCode\\Dotnet-VSCODE\\DotnetVisualStudioCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\Arthur\\DotnetVisualStudioCode\\DotnetVisualStudioCode.csproj",
+        "projectUniqueName": "F:\\Users\\Arthur\\DotnetVisualStudioCode\\Dotnet-VSCODE\\DotnetVisualStudioCode.csproj",
         "projectName": "DotnetVisualStudioCode",
-        "projectPath": "F:\\Users\\Arthur\\DotnetVisualStudioCode\\DotnetVisualStudioCode.csproj",
+        "projectPath": "F:\\Users\\Arthur\\DotnetVisualStudioCode\\Dotnet-VSCODE\\DotnetVisualStudioCode.csproj",
         "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\Arthur\\DotnetVisualStudioCode\\obj\\",
+        "outputPath": "F:\\Users\\Arthur\\DotnetVisualStudioCode\\Dotnet-VSCODE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config"

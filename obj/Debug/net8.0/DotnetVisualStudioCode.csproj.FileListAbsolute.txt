@@ -1,0 +1,15 @@
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\bin\Debug\net8.0\DotnetVisualStudioCode.exe
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\bin\Debug\net8.0\DotnetVisualStudioCode.deps.json
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\bin\Debug\net8.0\DotnetVisualStudioCode.runtimeconfig.json
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\bin\Debug\net8.0\DotnetVisualStudioCode.dll
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\bin\Debug\net8.0\DotnetVisualStudioCode.pdb
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\DotnetVisualStudioCode.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\DotnetVisualStudioCode.AssemblyInfoInputs.cache
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\DotnetVisualStudioCode.AssemblyInfo.cs
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\DotnetVisualStudioCode.csproj.CoreCompileInputs.cache
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\DotnetVisualStudioCode.sourcelink.json
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\DotnetVisualStudioCode.dll
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\refint\DotnetVisualStudioCode.dll
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\DotnetVisualStudioCode.pdb
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\DotnetVisualStudioCode.genruntimeconfig.cache
+F:\Users\Arthur\DotnetVisualStudioCode\Dotnet-VSCODE\obj\Debug\net8.0\ref\DotnetVisualStudioCode.dll
